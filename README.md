@@ -21,6 +21,7 @@ The robot's linear motion in terms of distance and heading is modeled as:
 The robot's arc motion in terms of distance, angle, and heading is modeled as:
  
 ![Arc Motion](img/arc-motion-x-LaTeX.png)
+
 ![Arc Motion](img/arc-motion-y-LaTeX.png)
  
 The robot's motion has two different noise models (uniform or normal distributions), and the code is extendable for additional models. 
